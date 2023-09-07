@@ -32,3 +32,7 @@ Welcome to the [CS Careers UK](https://discord.gg/Fmmu5x8Gn8) repository. A comm
 | Barclays | Technology Developer Graduate Programme | Glasgow | [Apply](https://search.jobs.barclays/job/-/-/22545/53938760432?src=JB-12860) | 6th Sep 23 |
 | Barclays | Technology Developer Graduate Programme | Knutsford | [Apply](https://search.jobs.barclays/job/-/-/22545/53938726784?src=JB-12860) | 6th Sep 23 |
 | Barclays | Technology Developer Graduate Programme | Northampton | [Apply](https://search.jobs.barclays/job/-/-/22545/53938735088?src=JB-12860) | 6th Sep 23 |
+| Deutsche Bank | Technology Data & Innovation | Northampton | [Apply](https://db.recsolu.com/external/requisitions/QlPfhPYvZjSfCbBlp8M-nA) | 7th Sep 23 |
+| Aon | Graduate Programme - Software Development | London | [Apply](https://www.linkedin.com/jobs/view/3714588290) | 7th Sep 23 |
+| TikTok | Machine Learning Engineer Graduate | London | [Apply](https://careers.tiktok.com/position/7266068583469041980/detail?spread=5MWH5CQ) | 7th Sep 23 |
+
